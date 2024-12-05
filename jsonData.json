@@ -1,4 +1,4 @@
-[
+{"thefts": [
 {"vin": "5YJSA1E48MF123450",
  "theft_date": "2020-07-08",
   "theft_location": "52 Aspen Road",
@@ -28,4 +28,4 @@
   "theft_location": "90 Cobbler Estate",
    "theft_status": "Stolen",
     "last_location": "Port of Toronto"}
-]
+]}
