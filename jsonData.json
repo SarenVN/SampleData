@@ -1,31 +1,39 @@
-{"thefts": [
-{"vin": "5YJSA1E48MF123450",
- "theft_date": "2020-07-08",
-  "theft_location": "52 Aspen Road",
-   "theft_status": "Stolen",
-    "last_location": "Port de Quebec"},
-
-{"vin": "5UXKR2C59F0T28211",
- "theft_date": "2023-06-22",
-  "theft_location": "51 Dupont Street",
-   "theft_status": "Stolen",
-    "last_location": "Hamilton-Oshawa Port Authority"},
-
-{"vin": "JM3KFBCMXM0710984",
- "theft_date": "2018-07-21",
-  "theft_location": "60 McShnee Boulevard",
-   "theft_status": "Resolved",
-    "last_location": "Port de Quebec"},
-
-{"vin": "3VWJ7AJ79JM513954",
- "theft_date": "2024-08-17",
-  "theft_location": "8785 Woods Lane",
-   "theft_status": "Resolved",
-    "last_location": "Hamilton-Oshawa Port Authority"},
-
-{"vin": "4T1BF1FK8QYJP6724",
- "theft_date": "2024-01-01",
-  "theft_location": "90 Cobbler Estate",
-   "theft_status": "Stolen",
-    "last_location": "Port of Toronto"}
-]}
+{
+    "thefts": [
+        {
+            "vin": "5YJSA1E48MF123450",
+            "theft_date": "2020-07-08",
+            "theft_location": "52 Aspen Road",
+            "theft_status": "Stolen",
+            "last_location": "Port de Quebec"
+        },
+        {
+            "vin": "5UXKR2C59F0T28211",
+            "theft_date": "2023-06-22",
+            "theft_location": "51 Dupont Street",
+            "theft_status": "Stolen",
+            "last_location": "Hamilton-Oshawa Port Authority"
+        },
+        {
+            "vin": "JM3KFBCMXM0710984",
+            "theft_date": "2018-07-21",
+            "theft_location": "60 McShnee Boulevard",
+            "theft_status": "Resolved",
+            "last_location": "Port de Quebec"
+        },
+        {
+            "vin": "3VWJ7AJ79JM513954",
+            "theft_date": "2024-08-17",
+            "theft_location": "8785 Woods Lane",
+            "theft_status": "Resolved",
+            "last_location": "Hamilton-Oshawa Port Authority"
+        },
+        {
+            "vin": "4T1BF1FK8QYJP6724",
+            "theft_date": "2024-01-01",
+            "theft_location": "90 Cobbler Estate",
+            "theft_status": "Stolen",
+            "last_location": "Port of Toronto"
+        }
+    ]
+}
