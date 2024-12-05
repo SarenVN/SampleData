@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<theft>
+<theftreports>
+<vin> 9BWZZZ3CZ1P123456 </vin>
+<theft_date> 2024-05-12 </theft_date>
+<theft_location> 4 Privet Drive </theft_location>
+<theft_status> Stolen </theft_status>
+<last_location> Port of Vancouver </last_location>
+</theftreports>
+<theftreports>
+<vin> 3N1AB7AP2JWXQ5698 </vin>
+<theft_date> 2020-02-15 </theft_date>
+<theft_location> 83 Ronald Lane </theft_location>
+<theft_status> Resolved </theft_status>
+<last_location> Port of Vancouver </last_location>
+</theftreports>
+<theftreports>
+<vin> 5FNYF6H58PQRK0427 </vin>
+<theft_date> 2024-07-21 </theft_date>
+<theft_location> 649 Airport Lane </theft_location>
+<theft_status> Stolen </theft_status>
+<last_location> Port Harvey </last_location>
+</theftreports>
+<theftreports>
+<vin> 2C4RDGEG3KLMV9856 </vin>
+<theft_date> 2020-08-05 </theft_date>
+<theft_location> 4355 Nepean Road </theft_location>
+<theft_status> Resolved </theft_status>
+<last_location> Port Harvey </last_location>
+</theftreports>
+<theftreports>
+<vin> 8ABCD12345EF678901 </vin>
+<theft_date> 2023-09-15 </theft_date>
+<theft_location> 111 Lake Drive </theft_location>
+<theft_status> Stolen </theft_status>
+<last_location> Port of Vancouver </last_location>
+</theftreports>
+</theft>
+
